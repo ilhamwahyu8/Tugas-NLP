@@ -1,0 +1,7 @@
+1. Pastikan seluruh artikel berada dalam 1 folder 
+2. Pastikan isi dari var path adalah tempat seluruh artikel ('Dataset')
+3. Jalankan program menggunakan terminal yang diinginkan
+4. Tunggu hingga proses program selesai
+
+Note:
+Jika ingin melihat matriks yang telah dibangun silahkan uncomment code to_excel pada tiap fungsi matriks. Dan program akan melakukan write excel matriks yang telah dibangun.

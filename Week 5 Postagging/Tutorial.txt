@@ -1,0 +1,7 @@
+1. Pastikan seluruh artikel berada dalam 1 folder 
+2. Pastikan isi dari var path adalah tempat seluruh artikel ('Dataset')
+3. Jalankan program menggunakan terminal yang diinginkan
+4. Tunggu hingga proses program selesai
+
+Note:
+Jika ingin melihat predicted Tag yang telah dibangun silahkan uncomment code to_excel pada code(8 Line terakhir). Dan program akan melakukan write excel prediksi tag yang telah dibangun berserta dengan katanya.

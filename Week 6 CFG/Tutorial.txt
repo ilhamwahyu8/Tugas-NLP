@@ -1,0 +1,6 @@
+1. Pastikan program berjalan menggunakan anaconda enviromnet pada vscode
+(
+atau dapat mengakses .ipynb pada link:
+https://drive.google.com/drive/folders/1EAnrqyBZpE2VhvR1qUQIh9KvOPhRA4X3
+)
+2. Uncomment kalimat-kalimat yang ingin dicek

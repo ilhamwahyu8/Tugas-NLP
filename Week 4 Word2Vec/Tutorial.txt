@@ -1,0 +1,4 @@
+1. Pastikan seluruh artikel berada dalam 1 folder 
+2. Pastikan isi dari var path adalah tempat seluruh artikel ('Dataset')
+3. Jalankan program menggunakan terminal yang diinginkan atau anaconda enviromnet pada vscode
+4. Tunggu hingga proses program selesai
